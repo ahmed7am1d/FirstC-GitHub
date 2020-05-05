@@ -19,4 +19,4 @@ count << " The sum of the two number is :  " << sum << endl;
 
 
 +return 0;	
-{
+}

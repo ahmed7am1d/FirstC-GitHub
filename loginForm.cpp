@@ -19,4 +19,4 @@ cin >> Pin ;
 
 
 +return 0;	
-{
+}
